@@ -1,4 +1,4 @@
 # Ramdev-furniture-website
- Hitesh Kumar Chaudhary \n
- Manisha Bhardwaj\n
+ Hitesh Kumar Chaudhary #
+ Manisha Bhardwaj #
  Amarjeet Sharma
